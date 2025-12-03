@@ -1,4 +1,4 @@
-# 🦷 WaveNet Care - Dental Hospital Management Platform
+# 🦷 DentalPro-Suite - Dental Hospital Management Platform
 
 [![Next.js](https://img.shields.io/badge/Next.js-15.2.3-black?style=flat\&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19.0.0-blue?style=flat\&logo=react)](https://react.dev/)
